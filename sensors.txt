@@ -1,0 +1,74 @@
+{
+    "sensors": [
+        {
+            "healtyrange": {
+                "maximum": 100,
+                "minimum": 95
+            },
+            "id": 1,
+            "name": "Oxygen",
+            "range": {
+                "maximum": 100,
+                "minimum": 70
+            },
+            "reliability": 98,
+            "type": "OxygenSaturation"
+        },
+        {
+            "healtyrange": {
+                "maximum": 100,
+                "minimum": 60
+            },
+            "id": 2,
+            "isUnderStress": false,
+            "name": "Heart",
+            "range": {
+                "maximum": 240,
+                "minimum": 30
+            },
+            "reliability": 89,
+            "type": "HeartRate"
+        },
+        {
+            "healtyrange": {
+                "maximum": 37,
+                "minimum": 36
+            },
+            "id": 3,
+            "name": "Temp",
+            "range": {
+                "maximum": 45,
+                "minimum": 32
+            },
+            "reliability": 97,
+            "type": "Temperature",
+            "unitOfMesure": true
+        },
+        {
+            "id": 4,
+            "name": "Blood",
+            "range": {
+                "maximum": 300,
+                "minimum": 0
+            },
+            "reliability": 79,
+            "type": "BloodPressure"
+        },
+        {
+            "age": 33,
+            "healtyrange": {
+                "maximum": 30,
+                "minimum": 20
+            },
+            "id": 5,
+            "isUnderStress": true,
+            "name": "Breath",
+            "range": {
+                "maximum": 100,
+                "minimum": 0
+            },
+            "reliability": 78,
+            "type": "BreathFrequency"
+        }
+    ]
+}

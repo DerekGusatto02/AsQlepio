@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/blood-pressure.png</file>
+        <file>img/breath.png</file>
+        <file>img/heart-rate-2.png</file>
+        <file>img/import.png</file>
+        <file>img/logotype.png</file>
+        <file>img/oxygen.png</file>
+        <file>img/save.png</file>
+        <file>img/temperature.png</file>
+    </qresource>
+</RCC>
