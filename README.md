@@ -25,4 +25,5 @@ Il progetto deve obbligatoriamente soddisfare i seguenti vincoli:
 
 
 ## ABSTRACT 
-Apollon è una piattaforma di streaming online di musica che offre agli utenti un vasto catalogo di brani musicali da ascoltare in streaming.
+AsQlepio rappresenta un avanzato sistema di gestione dei dati provenienti da sensori medici, focalizzato sulla monitoraggio accurato di parametri vitali come la pressione del sangue, il battito cardiaco, la frequenza respiratoria e la temperatura corporea. Il nostro progetto si propone di offrire una soluzione completa e intuitiva per la raccolta, l’analisi e la visualizzazione di dati critici per la salute, mirando a migliorare l’efficienza e la precisione nella gestione delle informazioni mediche.
+A differenza di approcci convenzionali, AsQlepio si distingue per la sua interfaccia user-friendly e per la capacità di integrare diverse tipologie di sensori in un’unica piattaforma. L’obiettivo principale è fornire agli operatori sanitari e ai pazienti un ambiente centralizzato per il monitoraggio in tempo reale e la registrazione storica di parametri vitali cruciali.
