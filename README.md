@@ -2,6 +2,7 @@
 ## Svolgimento progetto per il corso "Programmazione ad Oggetti" @UniPD 2023/24
 
 AsQlepio è il progetto sviluppato per il corso di "Programmazione ad Oggetti" presso l'Università di Padova durante l'anno accademico 2023/24: il progetto consiste nella progettazione e nell’implementazione di un software di gestione di alcuni sensori.
+
 Il progetto è stato svolto con [Veronica Tecchiati](https://github.com/ver-Tec).
 
 ### Vincoli minimi
